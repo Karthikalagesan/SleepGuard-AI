@@ -63,6 +63,66 @@ Here is the physical implementation of SleepGuard AI, featuring the Raspberry Pi
 
 *Figure 1: SleepGuard AI hardware prototype and its main components.*
 
+## 🧪 Testing and Evaluation
+
+### 💡 Lighting Condition Testing
+
+Lighting condition testing is conducted indoors to evaluate the performance of the SleepGuard AI system under five different lighting conditions. The experiment examines how lighting affects facial landmark detection, Eye Aspect Ratio (EAR) readings, and the detection of prolonged eye closure.
+
+### 🌤️ Experimental Conditions
+
+1. ☀️ **Bright Lighting — Room Light**
+
+   The room light is switched on to provide bright indoor illumination.
+
+2. 🌞 **Normal Lighting — Sunlight**
+
+   Natural sunlight is used as the primary source of illumination.
+
+3. 💡 **Low Lighting — Table Lamp**
+
+   A table lamp is used as the light source under reduced lighting conditions.
+
+4. 🔦 **Very Low Lighting — Small Table Light**
+
+   A small table light provides limited illumination to evaluate detection performance under very low lighting.
+
+5. 🌑 **Dark Condition — Lights Off**
+
+   The room lights and additional lights are switched off to examine whether the camera can still detect facial landmarks in darkness.
+
+### 🎯 Testing Objectives
+
+- 👁️ Evaluate facial landmark detection under different lighting conditions.
+- 📊 Observe variations in EAR readings.
+- ⏱️ Evaluate detection of prolonged eye closure.
+- 🚨 Verify LED and buzzer activation when drowsiness is detected.
+- 📲 Check whether Telegram notifications are delivered successfully.
+- ⚠️ Identify detection failures or false alerts under different lighting conditions.
+
+### 🔬 Testing Procedure
+
+1. Position the camera and participant at a consistent distance.
+2. Test the system under each of the five lighting conditions.
+3. Observe the facial landmarks and EAR readings with eyes open and closed.
+4. Keep the eye-closure duration consistent when testing the drowsiness alert.
+5. Record whether the system detects the face and activates the LED, buzzer, and Telegram notification as expected.
+6. Compare the observations across all five conditions.
+
+### 📋 Results and Observations
+
+The results will be recorded after testing is completed.
+
+| No. | Lighting Condition | Face Detected | EAR Detection | Alert Activated | Remarks |
+|---:|---|---|---|---|---|
+| 1 | Bright — Room Light | Pending | Pending | Pending | — |
+| 2 | Normal — Sunlight | Pending | Pending | Pending | — |
+| 3 | Low — Table Lamp | Pending | Pending | Pending | — |
+| 4 | Very Low — Small Table Light | Pending | Pending | Pending | — |
+| 5 | Dark — Lights Off | Pending | Pending | Pending | — |
+
+*Note: Results must be updated using actual experimental observations. Performance may vary with illumination, camera exposure, and facial landmark tracking quality.*
+
 ## 💻 Software & Technologies
 
 - 🐍 **Python** — Main programming language
