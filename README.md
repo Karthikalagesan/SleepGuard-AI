@@ -57,15 +57,11 @@ Built around a **Raspberry Pi 4**, the system uses computer vision to analyse fa
 
 ## 📸 Hardware Prototype
 
-Here is the physical implementation of the SleepGuard AI system, integrating the Raspberry Pi 4, camera, LCD screen, LED indicator, and buzzer for real-time driver drowsiness monitoring.
+Here is the physical implementation of SleepGuard AI, featuring the Raspberry Pi 4, camera, LCD screen, LED indicator, and buzzer.
 
-<p align="center">
-  <img src="images/sleepguard-hardware.jpg" alt="SleepGuard AI hardware prototype showing the camera, LCD screen, Raspberry Pi 4, LED, buzzer, and power supply" width="800">
-</p>
+![SleepGuard AI hardware prototype](Hardware%20integration.jpg)
 
-<p align="center">
-  <em>Figure 1: SleepGuard AI hardware prototype and its main components.</em>
-</p>
+*Figure 1: SleepGuard AI hardware prototype and its main components.*
 
 ## 💻 Software & Technologies
 
