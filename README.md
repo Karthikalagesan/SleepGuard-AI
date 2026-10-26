@@ -151,7 +151,7 @@ The results will be recorded after testing is completed.
 
 The SleepGuard AI system detects prolonged eye closure and sends a Telegram alert containing the EAR value, eye-closure duration, event number, timestamp, and LED and buzzer status.
 
-![SleepGuard AI Telegram Alert](telegram_drowsiness_alert.png)
+![SleepGuard AI Telegram Alert](IoT%20Noti.png)
 
 - 📷 Live camera monitoring interface
 - 🚨 Drowsiness detection and local alarm activation
