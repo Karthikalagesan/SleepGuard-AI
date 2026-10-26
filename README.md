@@ -164,6 +164,24 @@ The SleepGuard AI system detects prolonged eye closure and sends a Telegram aler
 
 ![SleepGuard AI Telegram Alert](IoT%20Noti.png)
 
+### 🔧 Physical Prototype Demonstration
+
+The image below shows the SleepGuard AI prototype during a drowsiness detection test. The system displays the detected face, Eye Aspect Ratio (EAR), eye-closure duration, and drowsiness alert on the monitoring interface.
+
+When prolonged eye closure is detected, the system activates the physical LED and buzzer to alert the driver. The illuminated LED in the image indicates local visual alarm activation.
+
+This demonstration illustrates the integration of the Python-based drowsiness detection software with the hardware alert mechanism.
+
+![SleepGuard AI Physical Prototype](sleepguard_prototype.jpg)
+
+**Demonstrated features:**
+- Camera-based facial landmark detection.
+- EAR calculation and eye-closure monitoring.
+- Drowsiness alert displayed on the monitoring interface.
+- Physical LED activation.
+- Integration of software and hardware components.
+
+
 - 📷 Live camera monitoring interface
 - 🚨 Drowsiness detection and local alarm activation
 - 📲 Telegram alert notification
