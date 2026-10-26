@@ -166,12 +166,10 @@ The SleepGuard AI system detects prolonged eye closure and sends a Telegram aler
 
 ### 🎬 PSM Testing Video
 
-This video demonstrates the SleepGuard AI prototype under five different lighting conditions: bright room light, normal sunlight, low table lamp, very low small table light, and darkness. It showcases the system's face detection, EAR monitoring, and drowsiness alert mechanism, including the observed limitation under dark conditions.
+This video demonstrates the SleepGuard AI prototype under five different lighting conditions: bright room light, normal sunlight, low lighting, very low lighting, and darkness. It showcases face detection, EAR monitoring, LED and buzzer activation, and Telegram alert notifications. The demonstration also highlights the detection limitations observed in dark conditions.
 
-Watch the SleepGuard AI prototype being tested
-under five different lighting conditions.
+▶️ **[Watch the SleepGuard AI Testing Video on YouTube](https://youtube.com/shorts/oIqJYr5mrLo?feature=share)**
 
-▶️ [Watch Testing Video](PSM%20Testing.mp4)
 ### 🔧 Physical Prototype Demonstration
 
 The image below shows the SleepGuard AI prototype during a drowsiness detection test. The system displays the detected face, Eye Aspect Ratio (EAR), eye-closure duration, and drowsiness alert on the monitoring interface.
