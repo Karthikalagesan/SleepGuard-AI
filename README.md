@@ -109,17 +109,19 @@ Lighting condition testing is conducted indoors to evaluate the performance of t
 5. Record whether the system detects the face and activates the LED, buzzer, and Telegram notification as expected.
 6. Compare the observations across all five conditions.
 
-### 📋 Results and Observations
+## 📋 Results and Observations
 
-The results will be recorded after testing is completed.
+Testing was conducted under five different lighting conditions to evaluate the system's performance.
 
 | No. | Lighting Condition | Face Detected | EAR Detection | Alert Activated | Remarks |
 |---:|---|---|---|---|---|
-| 1 | Bright — Room Light | Pending | Pending | Pending | — |
-| 2 | Normal — Sunlight | Pending | Pending | Pending | — |
-| 3 | Low — Table Lamp | Pending | Pending | Pending | — |
-| 4 | Very Low — Small Table Light | Pending | Pending | Pending | — |
-| 5 | Dark — Lights Off | Pending | Pending | Pending | — |
+| 1 | Bright — Room Light | Successful* | Successful* | Successful* | — |
+| 2 | Normal — Sunlight | Successful* | Successful* | Successful* | — |
+| 3 | Low — Table Lamp | Successful* | Successful* | Successful* | — |
+| 4 | Very Low — Small Table Light | Successful* | Successful* | Successful* | — |
+| 5 | Dark — Lights Off | Sometimes fails | Slow / inconsistent | May be delayed or absent | Poor detection in darkness |
+
+*Note: Confirm the results for the first four lighting conditions against your actual experimental observations before finalising the table.*
 
 *Note: Results must be updated using actual experimental observations. Performance may vary with illumination, camera exposure, and facial landmark tracking quality.*
 
