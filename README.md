@@ -172,7 +172,7 @@ When prolonged eye closure is detected, the system activates the physical LED an
 
 This demonstration illustrates the integration of the Python-based drowsiness detection software with the hardware alert mechanism.
 
-![SleepGuard AI Physical Prototype](sleepguard_prototype.jpg)
+![SleepGuard AI Physical Prototype](sleepguard_prototype.jpeg)
 
 **Demonstrated features:**
 - Camera-based facial landmark detection.
