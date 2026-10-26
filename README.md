@@ -133,6 +133,15 @@ The results will be recorded after testing is completed.
 - 🌐 **Telegram Bot API** — Remote alert delivery
 - 📡 **Requests** — HTTP communication with Telegram
 
+## 💻 Source Code
+
+The SleepGuard AI system is implemented in Python and runs on a Raspberry Pi. The program integrates camera-based facial landmark detection, Eye Aspect Ratio (EAR) calculation, prolonged eye-closure monitoring, local LED and buzzer activation, and Telegram alert notifications.
+
+**Main source file:** [`sleepguard_ai_FYP.py`](sleepguard_ai_FYP.py)
+
+Click the filename above to view the complete Python source code.
+
+
 ## 🧮 Detection Configuration
 
 | Parameter | Current Setting |
